@@ -1,2 +1,1 @@
-# image-processing-lab
-Image processing lab
+# Digital-Image-Processing
